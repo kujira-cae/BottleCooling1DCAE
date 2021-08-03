@@ -2,4 +2,4 @@
 Calculate time for cooling bottle
 
 ## Install Module
-'''pip install -r requirments/req.txt'''
+``` pip install -r requirments/req.txt ```
