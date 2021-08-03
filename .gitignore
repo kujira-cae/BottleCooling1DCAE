@@ -1,0 +1,11 @@
+*.c
+*.o
+*.h
+*.json
+*.xml
+*.mat
+*.exe
+*.libs
+*.log
+*.makefile
+*checkpoint.ipynb
