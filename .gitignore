@@ -9,4 +9,5 @@
 *.libs
 *.log
 *.makefile
-*checkpoint.ipynb
+*checkpoint*
+*.png
